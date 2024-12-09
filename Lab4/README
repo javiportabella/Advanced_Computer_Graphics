@@ -1,0 +1,5 @@
+Through this lab, you will expand your knowledge on volume rendering and you will be able to manipulate
+and improve the algorithm by yourselves. At the end, you should have gained the following competencies:
+• Loading 3D grids from files and use them in shaders.
+• Implementation of the scattering term in our shaders.
+• Implementation of phase functions.
