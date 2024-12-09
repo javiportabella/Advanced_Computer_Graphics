@@ -3,3 +3,5 @@ and improve the algorithm by yourselves. At the end, you should have gained the 
 • Loading 3D grids from files and use them in shaders.
 • Implementation of the scattering term in our shaders.
 • Implementation of phase functions.
+
+In the texture, the bunny_cloud.vdb texture is missing because the file is too big to be uploaded
