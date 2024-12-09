@@ -1,0 +1,3 @@
+C:\Users\u137471\Desktop\Courses UPF\Advanced Computer Graphics\2024-25\CLEAN FRAMEWOIRK\RTACG_Students\VisualStudio2015\RTACG\x64\Debug\RT_ACG.exe
+C:\Users\javie\Downloads\RTACG_Students\RTACG_Students\VisualStudio2015\RTACG\x64\Debug\RT_ACG.exe
+C:\Users\javie\OneDrive\Escritorio\Uni\Quart\1r trimestre\Advanced Computer Graphics\RTACG_Students\RTACG_Students\VisualStudio2015\RTACG\x64\Debug\RT_ACG.exe

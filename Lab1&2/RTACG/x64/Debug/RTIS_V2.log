@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\javie\OneDrive\Escritorio\Uni\Quart\1r trimestre\Advanced Computer Graphics\RTACG_Students\RTACG_Students\src\main.cpp(273,21): warning C4244: 'inicializando': conversión de '_Rep' a 'float'; posible pérdida de datos
+          with
+          [
+              _Rep=double
+          ]
+  RTIS_V2.vcxproj -> C:\Users\javie\OneDrive\Escritorio\Uni\Quart\1r trimestre\Advanced Computer Graphics\RTACG_Students\RTACG_Students\VisualStudio2015\RTACG\x64\Debug\RT_ACG.exe

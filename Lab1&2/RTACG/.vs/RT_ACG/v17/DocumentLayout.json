@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\VisualStudio2015\\RTACG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE03A110-7735-41D4-B6A3-A3801C61B3EB}|RTIS_V2.vcxproj|C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE03A110-7735-41D4-B6A3-A3801C61B3EB}|RTIS_V2.vcxproj|C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\hemisphericaldirshader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE03A110-7735-41D4-B6A3-A3801C61B3EB}|RTIS_V2.vcxproj|C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE03A110-7735-41D4-B6A3-A3801C61B3EB}|RTIS_V2.vcxproj|C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\areadirshader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE03A110-7735-41D4-B6A3-A3801C61B3EB}|RTIS_V2.vcxproj|C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "purepathtracing.h",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.h",
+              "RelativeDocumentMoniker": "..\\..\\src\\shaders\\purepathtracing.h",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.h",
+              "RelativeToolTip": "..\\..\\src\\shaders\\purepathtracing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-25T06:34:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "purepathtracing.cpp",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.cpp",
+              "RelativeDocumentMoniker": "..\\..\\src\\shaders\\purepathtracing.cpp",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\purepathtracing.cpp",
+              "RelativeToolTip": "..\\..\\src\\shaders\\purepathtracing.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T06:34:15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hemisphericaldirshader.cpp",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\hemisphericaldirshader.cpp",
+              "RelativeDocumentMoniker": "..\\..\\src\\shaders\\hemisphericaldirshader.cpp",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\hemisphericaldirshader.cpp",
+              "RelativeToolTip": "..\\..\\src\\shaders\\hemisphericaldirshader.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T07:00:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "areadirshader.cpp",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\areadirshader.cpp",
+              "RelativeDocumentMoniker": "..\\..\\src\\shaders\\areadirshader.cpp",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\shaders\\areadirshader.cpp",
+              "RelativeToolTip": "..\\..\\src\\shaders\\areadirshader.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:13:32.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\javie\\OneDrive\\Escritorio\\Uni\\Quart\\1r trimestre\\Advanced Computer Graphics\\RTACG_Students\\RTACG_Students\\src\\main.cpp",
+              "RelativeToolTip": "..\\..\\src\\main.cpp",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAAQBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T16:37:13.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
